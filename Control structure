@@ -1,11 +1,11 @@
-a=raw_input("enter a value")
+Input:
+a=int(input("Enter the value"))
 if a<20:
-      print('a is <20')
-      print('hii')
-
-#Output
-enter a value
-10
+  print('a is <20')
+  print('HI')
+Output:
+Enter the value15
 a is <20
-hii
-© 2021 GitHub, Inc.
+HI
+
+Process finished.
